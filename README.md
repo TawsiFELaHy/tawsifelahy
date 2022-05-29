@@ -24,3 +24,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawsifelahy&show_icons=true&locale=en&layout=compact" alt="tawsifelahy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawsifelahy&" alt="tawsifelahy" /></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tawsifelahy&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tawsifelahy)  
+
+![Profile views](https://gpvc.arturio.dev/tawsifelahy)  
