@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📫 How to reach me **tawsifelahy@yahoo.com**
+- 📫 You can reach me through **tawsifelahy@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
