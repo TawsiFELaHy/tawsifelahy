@@ -1,6 +1,5 @@
 ### Hi there 👋, Hey, I'm Tawsif ELaHy
 #### Frontend Developer
-![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hey, This is TawsiF ELaHy. I'm a self-learner and gradually progressing. I am now, can say, a frontend developer. But yeah, I would be a Full Stack Developer.
 
