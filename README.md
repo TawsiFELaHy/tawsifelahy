@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tawsif ELaHy</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="center"> Hey, This is TawsiF ELaHy. I'm a self-learner and gradually progressing. I am now, can say, a frontend developer. But yeah, I would be a Full Stack Developer.<p>
+<p align="center"> Hey, This is TawsiF ELaHy. I'm a self-learner and gradually progressing. I am now, can say, a frontend developer. But yeah, it's a long journey to be a Full Stack Developer.<p>
 
 - 🌱 I’m currently learning **Backend Development**
 
